@@ -43,9 +43,9 @@ Dessa forma uma nova rede do tipo (host-only) será configurada (vboxnet0) para 
 
 ## Iniciar as máquinas virtuais
 - No Oracle Virtual Box > selecione a maquina virtual KaliLinux e clique em iniciar
-- realizar o login
+- Fazer o login 
 - No Oracle Virtual Box > selecione a maquina virtual Metasploitable e clique em iniciar
-- realizar o login
+- Fazer o login (kali /kali)
 
 
 
