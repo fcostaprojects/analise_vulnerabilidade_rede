@@ -1,6 +1,5 @@
 # Análise de segurança em rede e intranet local
-Este documento descreve a realização de uma análise de segurança em uma rede local virtual privada em ambiente controlado, destinado para fins educacionais.
-Os testes são realizados totalmente em ambiente Linux.
+Este documento descreve a realização de uma análise de segurança em uma rede local virtual privada em ambiente Linux controlado, destinado para fins educacionais.
 
 
 ## Ferramentas necessárias ##
